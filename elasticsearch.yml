@@ -1,3 +1,2 @@
 script.indexed: on
 script.inline: on
-network.host: _non_loopback_
